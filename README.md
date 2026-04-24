@@ -6,7 +6,7 @@ The **Ocean Noise Pollution Analyzer** is a Machine Learning-based project desig
 
 ---
 
-## 🎯 Objectives
+## 🎯  Objectives
 
 * Analyze underwater acoustic data
 * Classify noise sources using Machine Learning models
